@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:adroid="http://schemas.android.com/apk/res-auto">
+
+    <!--COLOR CUNADO ESTE ACTIVO EL BOTON Y CUANDO NO ESTE ACTIVO-->
+    <item android:color="@color/colorAccent" android:state_checked="true"/>
+    <item android:color="@color/colorSecondaryText" android:state_checked="false"/>
+</selector>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+
+    <!--LOGIN VIEW-->
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_confirm_password">Confirm Password</string>
+    <string name="login_sign_in">Sign In</string>
+    <string name="login_sign_up">Sign Up</string>
+    <string name="login_reset_password">Reset my Password</string>
+    <string name="login_sign_in_google">Sign In with Google</string>
+    <string name="login_forgot_password">I have forgotten my password</string>
+    <string name="login_create_account">Create a new Account</string>
+    <string name="login_go_login">Go back to Login</string>
+
+    <!-- Bottom Navigation View Strings -->
+    <string name="navigation_bottom_info">Info</string>
+    <string name="navigation_bottom_rates">Rates</string>
+    <string name="navigation_bottom_chat">Chat</string>
+
+    <string name="chat_edit_text_message_hint">Type a message here</string>
+
+    <string name="info_label_message_hint">Total Messages</string>
+    <string name="info_no_name">Name is not available</string>
+
+    <!--PARA EL GENERAL_OPTIONS_MENU-->
+    <string name="options_menu_log_out">Log Out</string>
+
+    <!--PARA LA ZONA DE RATES-->
+    <string name="dialog_title">Rate the App</string>
+    <string name="dialog_edit_text_hint">Leave your Feedback</string>
+    <string name="dialog_ok">Rate</string>
+    <string name="dialog_cancel">Cancel</string>
+
+
+</resources>

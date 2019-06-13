@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--PARA EL CHAT PARA VERSE COMO UN CUADRADO DE TEXTO DE DE LOS QUE S EPONEN CUANDO ENVIAS UN MENSAJE-->
+    <item android:top="18dp">
+        <rotate
+                android:fromDegrees="45"
+                android:pivotX="100%"
+                android:pivotY="0%"
+                android:toDegrees="0">
+            <shape android:shape="rectangle">
+                <solid android:color="@color/colorChatBg"/>
+            </shape>
+        </rotate>
+    </item>
+
+    <item android:right="7dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/colorChatBg"/>
+            <corners android:radius="5dp"/>
+        </shape>
+    </item>
+</layer-list>
